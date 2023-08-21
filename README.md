@@ -4,6 +4,8 @@ Add-on to disable the Page Visibility API.
 This prevents e.g. video conferencing systems from tracking whether you are currently in another window.
 
 ## License
+This add-on is a modification of an existing code that disables the Page Visibility API. The purpose of this modification is to prevent video conferencing systems from tracking whether you are currently in another window. The original code is licensed under the GNU Affero General Public License, and this modification is also distributed under the same license.
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
